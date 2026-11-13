@@ -1,6 +1,8 @@
 # n1kh11.com
 
-Personal site for [Nikhil Paruchuri](https://n1kh11.com) — Next.js portfolio with experience, projects, writing, Spotify, and an interactive globe (Nikhil's Wrld).
+Source code for [n1kh11.com](https://n1kh11.com) — Nikhil Paruchuri's personal site.
+
+Next.js portfolio with experience, projects, writing, Spotify, and an interactive globe (Nikhil's Wrld).
 
 ## Stack
 
